@@ -1,0 +1,21 @@
+Package: rashomonlite-group3
+Type: Package
+Title: Implements A Minimal Rashomon Algorithm
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Zack", "Miller",
+      email = "zzm0028@auburn.edu",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Jonah", "Kennedy",
+      email = "jak0110@auburn.edu",
+      role = c("aut")
+    )
+  )
+Description: Just a package created for a college course's assignment.
+License: GNU General Public License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
